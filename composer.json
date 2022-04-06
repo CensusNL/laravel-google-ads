@@ -1,5 +1,5 @@
 {
-    "name": "marshmallow/laravel-google-ads",
+    "name": "edujugon/laravel-google-ads",
     "description": "Google Adwords API for Laravel",
     "keywords": ["google","adwords","ads","laravel"],
     "license": "MIT",
